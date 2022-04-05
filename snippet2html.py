@@ -12,7 +12,7 @@ for x in f:
 			x = re.sub(y,"<span class=\\\"snippet-operator\\\">"+y+"</span>",x)
 
 	# Match Keywords
-	# Fill this in with whatever keywords are used in the snippet of code
+	#Fill this in with whatever keywords are used in the snippet of code
 	result = re.findall(keywords,x)
 	if result:
 		for y in result:
@@ -26,7 +26,7 @@ for x in f:
 
 	# Match method name
 	# Fill in with whatever your method is called
-	result = re.findall("",x)
+	result = re.findall(method,x)
 	if result:
 		for y in result:
 			x = re.sub(y,"<span class=\\\"snippet-method\\\">"+y+"</span>",x)

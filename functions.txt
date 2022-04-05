@@ -1,1 +1,1 @@
-read_ciph_key|get_confpath|generate_key|open|get_filepath|load|range|get_password_count|decrypt_password|bytes|decode|dump|gen_key_file|encrypt_password
+read_ciph_key|get_confpath|generate_key|open|get_filepath|load|range|get_password_count|decrypt_password|bytes|decode|dump|encrypt_password
