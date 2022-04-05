@@ -1,0 +1,2 @@
+This is a quick and messy script to turn pasted code into a presentable format for the snippet box in my website
+You will need to manually fill in the arguments, method, functions, and keywords that are used in the snippet of code in the text files provided.

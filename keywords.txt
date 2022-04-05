@@ -1,0 +1,1 @@
+(?:^|\W)(def|del|for|as|return|in)(?:$|\W)
